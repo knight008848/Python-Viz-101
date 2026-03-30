@@ -22,7 +22,7 @@ cd Python-Viz-101
 
 2. **安装基础依赖（建议在虚拟环境中）：**
 ```bash
-pip install matplotlib numpy pandas
+pip install matplotlib numpy pandas seaborn
 ```
 
 3. **运行代码：** 打开对应的 `.py` 脚本或 Jupyter Notebook，点击运行即可看到图表！💻
